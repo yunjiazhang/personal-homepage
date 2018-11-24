@@ -4,7 +4,7 @@ main:
   - title: "Education"
     url: /education/
   
-  - title: "Research Projects"
+  - title: "Research"
     url: /researchproj/
 
   - title: "Publications"
@@ -13,7 +13,7 @@ main:
   - title: "Projects and Course Designs"
     url: /designs/
     
-  - title: "Honors and Awards"
+  - title: "Honors"
     url: /honors/   
     
   - title: "CV"
