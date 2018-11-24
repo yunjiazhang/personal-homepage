@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-* Email: yunjiazhang@whu.edu.cn (personal affairs)
-yunjia_zhang@sohu.com (application affairs)
+* Email: 
+  yunjiazhang@whu.edu.cn (personal affairs)
+  yunjia_zhang@sohu.com (application affairs)
 * Mailing address:
-Current working place: School of Computing, National University of Singapore, Singapore
+  Current working place: School of Computing, National University of Singapore, Singapore
