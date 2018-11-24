@@ -1,7 +1,7 @@
 ---
 title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+date: Sep.2015 ~ Jun.2019 (expected)
+permalink: /posts/edu_whu/
 tags:
   - cool posts
   - category1
