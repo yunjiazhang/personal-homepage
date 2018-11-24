@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 1'
+title: 'School of Computer Science, Wuhan University'
 date: Sep.2015 ~ Jun.2019 (expected)
 permalink: /posts/edu_whu/
 tags:
