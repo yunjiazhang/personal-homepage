@@ -85,7 +85,7 @@ author:
   bio              : "Final year undergraduate of Wuhan University"
   location         : "Wuhan, Hubei, China"
   employer         :
-  googlescholar    : ""
+  googlescholar    : 
   email            : "yunjiazhang@whu.edu.cn"
   uri              :
   bitbucket        :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
