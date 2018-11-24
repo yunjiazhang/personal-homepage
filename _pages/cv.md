@@ -9,12 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-
 Wuhan University
 ---------------
 * B.Eng. in Computer Science and Technology, Sep.2015 ~ Jun.2019 (expected)
+* Overall GPA: 3.92/4.00
+* Major GPA: 3.97/4.00
+* Rank: 1/164
+* TOEFL: 110
+* GRE: 328
 
 Skills
 ======
