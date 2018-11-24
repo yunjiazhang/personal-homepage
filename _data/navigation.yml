@@ -2,7 +2,7 @@
 main:
   
   - title: "Education"
-    url: /cv/
+    url: /education/
   
   - title: "Research"
     url: /researchproj/
