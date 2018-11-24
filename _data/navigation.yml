@@ -17,7 +17,7 @@ main:
     url: /honors/   
     
   - title: "CV"
-    url: /cv/
+    url: /posts/
 
   - title: "Contact"
     url: /contact/
