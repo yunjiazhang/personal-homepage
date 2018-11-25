@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "News"
+title: ""
 excerpt: "News"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 
+News
+======
 Attending AAAI 2019 at Hawaii, USA!
 ------
 
