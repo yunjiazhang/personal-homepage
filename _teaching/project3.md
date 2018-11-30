@@ -20,5 +20,3 @@ This project aimed at designing a smart monitoring system, providing basic funct
 * Gesture control
 
 For the facial recognition and gesture recognition, local recognition programs and FACE++ APIs were applied to provide more accurate recognition result due to the performance limit of our embedded system – Raspberry Pi.
-
-![app3](./app5.png)  ![app4](./app6.png) ![app4](./app7.png) 
