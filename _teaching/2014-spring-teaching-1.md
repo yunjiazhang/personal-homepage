@@ -1,20 +1,13 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Project"
+permalink: /projects/project1
+venue: "Wuhan University"
+date: 2017-03-01
+location: "Wuhan China"
 ---
+This is a national-level college student innovative project and I am the leader in it. This project plans to develop and operate a trading platform for on-campus services (crowdsourcing) and second-hand goods. Currently in our university, we do not have enough platform to share and acquire sufficient service provided by others. We aim at designing a platform to balance these resources. 
+After much investigation through offline and online survey of what functions we should provide, we separate designed the application as follows. There are two main parts. In part one, users can post their request or need on our platform. The other part is specifically designed for second-hand trading. We have already implemented the application and trying to make it into real use.
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+![app1](./app1.jpg)  ![app2](./app2.jpg) 
