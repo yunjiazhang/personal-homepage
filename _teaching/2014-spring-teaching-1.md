@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Crowdsourcing Service Platform"
 collection: teaching
 type: "Project"
 permalink: /projects/project1
