@@ -7,4 +7,4 @@ redirect_from:
   - /cv
 ---
 
-For full resume, please visit: [Yunjia ZHANG](https://download.yjcyber.com/Yunjia ZHANG-CV.pdf)
+For full resume, please visit: [Yunjia ZHANG CV](https://download.yjcyber.com/Yunjia ZHANG-CV.pdf)
