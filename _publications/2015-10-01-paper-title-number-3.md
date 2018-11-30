@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Discussions about The Application and Analysis of Computer Network on E-Commerce"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/paper_3
+excerpt: 'At present, e-commerce has become the main shopping method for young people, but e-commerce in its development shows various problems, especially network security. Therefore, computer network technology is particularly important. Based on the application status of computer network technology in e-commerce, this paper analyzes the computer network technology commonly used in e-commerce. Starting from the actual situation, we study the problems of the use of e-commerce in computer network technology, and put forward feasible strategies to contribute to the application of computer network technology.'
+date: 2015-05-01
+venue: 'Digital Communication World'
+paperurl: 
+citation: 
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+Authors: ZHANG Yunjia
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Abstract: At present, e-commerce has become the main shopping method for young people, but e-commerce in its development shows various problems, especially network security. Therefore, computer network technology is particularly important. Based on the application status of computer network technology in e-commerce, this paper analyzes the computer network technology commonly used in e-commerce. Starting from the actual situation, we study the problems of the use of e-commerce in computer network technology, and put forward feasible strategies to contribute to the application of computer network technology.
