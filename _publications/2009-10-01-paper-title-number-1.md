@@ -1,7 +1,7 @@
 ---
 title: "Inferring Diffusion Networks without Timestamps (UNDER REVIEW)"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/paper_1
 excerpt: ''
 date: 2018-10-01
 venue: 'ICDE 2019 (UNDER REVIEW)'
