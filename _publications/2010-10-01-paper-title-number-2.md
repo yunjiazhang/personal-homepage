@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Fast Inference of Diffusion Networks without Infection Temporal Infor-mation"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/paper_2
+excerpt: 'The communication and influence among people form complex diffusion networks which consider person as nodes. Diffusion network inference can help us understand these diffusion networks and the related diffusion processes more intuitively and accurately, so as to better predict, promote or prevent future diffusion events. Most of the existing network inference algorithms require the infection temporal information of nodes. But in many real-world diffusion processes, the exact infection temporal information is often unavailable, resulting in a limited availability for existing methods. This paper aims at an effective, efficient and infection temporal information-free approach for diffusion network inference, and studies how to infer the influence relationships and transmission rates between the nodes based on only the final infection statuses of the nodes observed in a number of diffusion processes. To this end, the approach proposed in this paper first utilizes the mutual information of infection statuses among the nodes to quantify the correlation of the infections and reveal the underlying influence relationships between the nodes. Then, the proposed approach constructs the log-likelihood function of the observed infection statuses with transmission rates as the variables, and adopts the Expectation-Maximization algorithm to maximize the function and approximate the optimal transmission rates. Extensive experimental results demonstrate that compared against the existing approaches, the proposed approach has a reasonably better accuracy performance on diffusion network inference, and significantly reduces runtime.'
+date: 2018-05-01
+venue: 'NDBC'
+paperurl: 
+citation: 
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+Authors: SUN Yueming, ZHANG Yunjia, YAN Qian, CHEN Lu, HUANG Hao, GAO Yunjun
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Abstract: The communication and influence among people form complex diffusion networks which consider person as nodes. Diffusion network inference can help us understand these diffusion networks and the related diffusion processes more intuitively and accurately, so as to better predict, promote or prevent future diffusion events. Most of the existing network inference algorithms require the infection temporal information of nodes. But in many real-world diffusion processes, the exact infection temporal information is often unavailable, resulting in a limited availability for existing methods. This paper aims at an effective, efficient and infection temporal information-free approach for diffusion network inference, and studies how to infer the influence relationships and transmission rates between the nodes based on only the final infection statuses of the nodes observed in a number of diffusion processes. To this end, the approach proposed in this paper first utilizes the mutual information of infection statuses among the nodes to quantify the correlation of the infections and reveal the underlying influence relationships between the nodes. Then, the proposed approach constructs the log-likelihood function of the observed infection statuses with transmission rates as the variables, and adopts the Expectation-Maximization algorithm to maximize the function and approximate the optimal transmission rates. Extensive experimental results demonstrate that compared against the existing approaches, the proposed approach has a reasonably better accuracy performance on diffusion network inference, and significantly reduces runtime.
