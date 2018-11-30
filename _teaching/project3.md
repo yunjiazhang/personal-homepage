@@ -9,6 +9,9 @@ location: "Wuhan China"
 ---
 This project aimed at designing a smart monitoring system, providing basic functions and some advanced functions. Detailed functions are as follows.
 
+
+
+
 * Video recording
 * Picture recording
 * Online live
