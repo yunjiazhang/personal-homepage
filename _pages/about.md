@@ -9,6 +9,11 @@ redirect_from:
 ---
 
 
+Hi, I am Yunjia Zhang (张运加), an undergraduate (final year) majored in Computer Science & Technology at [School of Computer Science](http://cs.whu.edu.cn/), [Wuhan University](www.whu.edu.cn) (China). During the past three years, I have been working together with professors of several departments on many interesting and groundbreaking research projects. My research interest mainly focused on data mining, recommender systems and generally AI. I have experience working as research assistant in SKLSE @ Wuhan University, SCALE @ Nanyang Technological University, Institute of Software @ Chinese Academy of Sciences and Database Research Lab at National University of Singapore.
+
+Due to the in-depth study, I am now persuing graduate degree. I will appreciate it if you reach me out through email ([yunjiazhang@whu.edu.cn](yunjiazhang@whu.edu.cn)).
+
+
 News
 ======
 
