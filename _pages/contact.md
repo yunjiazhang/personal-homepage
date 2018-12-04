@@ -11,7 +11,12 @@ redirect_from:
 
 * Email: 
 
-  yunjiazhang@whu.edu.cn
+  yunjia_zhang@sohu.com (graduate application affairs)
+  
+  
+  yunjiazhang@whu.edu.cn (personal affairs)
+  
+  
   
 * Mailing address:
   
