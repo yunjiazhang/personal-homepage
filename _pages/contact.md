@@ -11,10 +11,10 @@ redirect_from:
 
 * Email: 
 
-  yunjia_zhang@sohu.com (graduate application affairs)
+  [yunjia_zhang@sohu.com](mailto:yunjia_zhang@sohu.com) (graduate application affairs)
   
   
-  yunjiazhang@whu.edu.cn (personal affairs)
+  [yunjiazhang@whu.edu.cn](mailto:yunjiazhang@whu.edu.cn) (personal affairs)
   
   
   
