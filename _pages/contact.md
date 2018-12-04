@@ -20,4 +20,4 @@ redirect_from:
   
 * Mailing address:
   
-  Current working place: School of Computing, National University of Singapore, Singapore
+  Current working place: School of Computing (COM 1), National University of Singapore, Singapore
