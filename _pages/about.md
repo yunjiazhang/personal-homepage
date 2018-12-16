@@ -18,7 +18,7 @@ News
 ======
 
 
-* Attending [AAAI 2019](https://aaai.org/Conferences/AAAI-19/) (Jan.27 2019) at Hawaii, USA!
+* Attending [AAAI 2019](https://aaai.org/Conferences/AAAI-19/) (Jan.27 2019) at Hawaii, USA and giving an oral presentation!
 
 * Joining [Prof.Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/)'s  Database Research Lab at National University of Singapore from Nov 2018!
 
