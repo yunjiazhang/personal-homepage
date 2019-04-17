@@ -18,6 +18,8 @@ News
 ======
 
 
+* Attending [Computer Science Dept.](https://www.cs.wisc.edu) at [University of Wisconsin-Madison](https://www.wisc.edu) for Ph.D study!
+
 * Attending [AAAI 2019](https://aaai.org/Conferences/AAAI-19/) (Jan.27 2019) at Hawaii, USA and giving an oral presentation!
 
 * Joining [Prof.Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/)'s  Database Research Lab at National University of Singapore from Nov 2018!
