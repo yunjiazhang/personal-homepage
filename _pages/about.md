@@ -18,7 +18,7 @@ News
 ======
 
 
-* Attending [Computer Science Dept.](https://www.cs.wisc.edu) at [University of Wisconsin-Madison](https://www.wisc.edu) for Ph.D study!
+* Attending [Computer Science Dept.](https://www.cs.wisc.edu) at [University of Wisconsin-Madison](https://www.wisc.edu) for Ph.D study. GO BADGERS!
 
 * Attending [AAAI 2019](https://aaai.org/Conferences/AAAI-19/) (Jan.27 2019) at Hawaii, USA and giving an oral presentation!
 
