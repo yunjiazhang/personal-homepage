@@ -9,12 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-* Email: 
-
-  [yunjia_zhang@sohu.com](mailto:yunjia_zhang@sohu.com) (graduate application affairs)
+* Email:   
   
-  
-  [yunjiazhang@whu.edu.cn](mailto:yunjiazhang@whu.edu.cn) (personal affairs)
+  yunjiazhang [AT] whu.edu.cn
   
   
   
