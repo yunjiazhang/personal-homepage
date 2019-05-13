@@ -18,13 +18,13 @@ News
 ======
 
 
-* Attending [Computer Science Dept.](https://www.cs.wisc.edu) at [University of Wisconsin-Madison](https://www.wisc.edu) for Ph.D study. GO BADGERS!
+* Joining [Computer Science Dept.](https://www.cs.wisc.edu) at [University of Wisconsin-Madison](https://www.wisc.edu) for Ph.D study. GO BADGERS! \[05/13/2019\]
 
-* Attending [AAAI 2019](https://aaai.org/Conferences/AAAI-19/) (Jan.27 2019) at Hawaii, USA and giving an oral presentation!
+* Attending [AAAI 2019](https://aaai.org/Conferences/AAAI-19/) (Jan.27 2019) at Hawaii, USA and giving an oral presentation! \[12/13/2018\]
 
-* Joining [Prof.Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/)'s  Database Research Lab at National University of Singapore from Nov 2018!
+* Joining [Prof.Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/)'s  Database Research Lab at National University of Singapore from Nov 2018! \[10/01/2018\]
 
-* Joining [Prof.Gao Cong](http://www.ntu.edu.sg/home/gaocong/)'s Singtel Cognitive and AI Lab for Enterprises at Nanyang Technological University in Singapore from Jul 2018!
+* Joining [Prof.Gao Cong](http://www.ntu.edu.sg/home/gaocong/)'s Singtel Cognitive and AI Lab for Enterprises at Nanyang Technological University in Singapore from Jul 2018! \[04/14/2018\]
 
 * Paper accepted by National Database Conference 2018 (NDBC 2018)!
 
