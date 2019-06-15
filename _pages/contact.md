@@ -11,10 +11,6 @@ redirect_from:
 
 * Email:   
   
+  yunjia.zhang [AT] wisc.edu
   yunjiazhang [AT] whu.edu.cn
   
-  
-  
-* Mailing address:
-  
-  Current working place: #01-07, School of Computing (COM 1), Computing Drive, National University of Singapore, Singapore
