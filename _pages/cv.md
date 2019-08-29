@@ -9,9 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+
+University of Wisconsin-Madison
+---------------
+* Ph.D in Computer Science, Aug.2019 ~ TBD
+* Advisor: (Theodoros (Theo) Rekatsinas)[http://pages.cs.wisc.edu/~thodrek/]
+
+
+
 Wuhan University
 ---------------
-* B.Eng. in Computer Science and Technology, Sep.2015 ~ Jun.2019 (expected)
+* B.Eng. in Computer Science and Technology, Sep.2015 ~ Jun.2019
 * Overall GPA: 3.92/4.00
 * Major GPA: 3.97/4.00
 * Rank: 1/164
