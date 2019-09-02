@@ -11,7 +11,7 @@ redirect_from:
 
 * Email:   
   
-  yunjia.zhang [AT] wisc.edu 
+  yunjia [AT] cs.wisc.edu
   
   
   yunjiazhang [AT] whu.edu.cn
