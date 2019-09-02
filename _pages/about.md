@@ -18,7 +18,7 @@ News
 ======
 
 
-* Joining [Computer Science Dept.](https://www.cs.wisc.edu) at [University of Wisconsin-Madison](https://www.wisc.edu) for Ph.D study. GO BADGERS! \[05/13/2019\]
+* Joining [Database Group](https://database.cs.wisc.edu/people.html) of [Computer Science Dept.](https://www.cs.wisc.edu) at [University of Wisconsin-Madison](https://www.wisc.edu) for Ph.D study. GO BADGERS! \[05/13/2019\]
 
 * Attending [AAAI 2019](https://aaai.org/Conferences/AAAI-19/) (Jan.27 2019) at Hawaii, USA and giving an oral presentation! \[12/13/2018\]
 
