@@ -13,7 +13,7 @@ redirect_from:
 University of Wisconsin-Madison
 ---------------
 * Ph.D in Computer Science, Aug.2019 ~ TBD
-* Database Group
+* [Database Group](https://database.cs.wisc.edu)
 * Advisor: [Theodoros (Theo) Rekatsinas](http://pages.cs.wisc.edu/~thodrek/)
 
 
