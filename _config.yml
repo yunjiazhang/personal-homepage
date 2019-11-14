@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yunjia ZHANG"
 title_separator          : "-"
 name                     : &name "Yunjia ZHANG"
-description              : &description "Wuhan University"
+description              : &description ""
 url                      : "https://yjcyber.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "https://yjcyber.com"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yunjia ZHANG"
   avatar           : "profile.png"
-  bio              : "Final year undergraduate of Wuhan University"
-  location         : "Wuhan, Hubei, China"
+  bio              : "Ph.D. student at University of Wisconsin-Madison"
+  location         : "Madison, WI, US"
   employer         :
   googlescholar    : 
-  email            : "yunjiazhang@whu.edu.cn"
+  email            : "yunjia@cs.wisc.edu"
   uri              :
   bitbucket        :
   codepen          :
