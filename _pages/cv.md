@@ -14,20 +14,20 @@ University of Wisconsin-Madison
 ---------------
 * Ph.D in Computer Science, Aug.2019 ~ TBD
 * [Database Group](https://database.cs.wisc.edu)
-* Advisor: [Theodoros (Theo) Rekatsinas](http://pages.cs.wisc.edu/~thodrek/)
+* Advisor: Prof. [Theodoros (Theo) Rekatsinas](http://pages.cs.wisc.edu/~thodrek/)
 
 
 
 Wuhan University
 ---------------
 * B.Eng. in Computer Science and Technology, Sep.2015 ~ Jun.2019
+* Advisor: Prof. Hao Huang
 * Overall GPA: 3.92/4.00
 * Major GPA: 3.97/4.00
 * Rank: 1/164
-* TOEFL: 110
-* GRE: 328
 
-Skills
+
+<!-- Skills
 ======
 * Programming Language
   * C/C++
@@ -47,4 +47,4 @@ Skills
   * QT Creator
   * Eclipse
   * Windows
-  * Linux
+  * Linux -->
