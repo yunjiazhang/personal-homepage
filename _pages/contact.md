@@ -12,7 +12,5 @@ redirect_from:
 * Email:   
   
   yunjia [AT] cs.wisc.edu
-<!--   
-  
-  yunjiazhang [AT] whu.edu.cn -->
+
   
