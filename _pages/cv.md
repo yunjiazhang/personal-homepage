@@ -13,6 +13,7 @@ redirect_from:
 University of Wisconsin-Madison
 ---------------
 * Ph.D in Computer Science, Aug.2019 ~ TBD
+* Research interest: data profiling, diffusion networks, data mining, database,
 * [Database Group](https://database.cs.wisc.edu)
 * Advisor: Prof. [Theodoros (Theo) Rekatsinas](http://pages.cs.wisc.edu/~thodrek/)
 
