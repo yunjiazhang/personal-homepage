@@ -13,4 +13,8 @@ redirect_from:
   
   yunjia [AT] cs.wisc.edu
 
-  
+
+* Office: 
+
+  CS4360, Department of Computer Science
+  1201 W Dayton St, Madison, WI, United States, 53715
