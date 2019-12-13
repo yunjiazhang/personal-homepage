@@ -18,6 +18,7 @@ My research mainly focused on data profiling, graph analysis and database. I hav
 News
 ======
 
+* Paper on previous work regarding diffusion networks accepted by [ICDE 2020](https://www.utdallas.edu/icde/). PDF available soon. \[12/13/2019\] 
 
 * Paper submitted to [SIGMOD 2020](https://sigmod2020.org/), which is currently under review. \[10/23/2019\]
 
