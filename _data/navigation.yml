@@ -1,6 +1,9 @@
 # main links links
 main:
   
+  - title: "Home"
+    url: /
+
   - title: "Education"
     url: /education/
   
@@ -14,7 +17,7 @@ main:
     url: /projects/
     
   - title: "Resume"
-    url: pages.cs.wisc.edu/~yunjia/download/YunjiaZHANG.pdf
+    url: https://pages.cs.wisc.edu/~yunjia/download/YunjiaZHANG.pdf
 
   - title: "Contact"
     url: /contact/
