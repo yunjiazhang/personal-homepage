@@ -17,7 +17,7 @@ main:
     url: /projects/
     
   - title: "Resume"
-    url: https://pages.cs.wisc.edu/~yunjia/download/YunjiaZHANG.pdf
+    url: http://pages.cs.wisc.edu/~yunjia/download/YunjiaZHANG.pdf
 
   - title: "Contact"
     url: /contact/
