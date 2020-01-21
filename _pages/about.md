@@ -19,7 +19,7 @@ Office: 4360 @ CS Dept., 1201 W Dayton St, Madison, WI, United States, 53715
 Email: yunjia [AT] cs.wisc.edu
 
 
-Service
+<!-- Service
 =======
 
 * Teaching assistant of CS 564, 20 Spring
@@ -27,7 +27,7 @@ Service
   gradings
 
 * Teaching assistant of CS 400, 19 Fall 
-
+ -->
 
 News
 ======
