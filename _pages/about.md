@@ -14,6 +14,20 @@ I am Yunjia Zhang, Ph.D. student majored in Computer Sciences at [Deparment of C
 My research mainly focused on data profiling, graph analysis and database. I have experience working as research assistant at SKLSE @ Wuhan University (supervisor: Prof.Hao Huang), [Institute of Software](http://english.is.cas.cn/) @ Chinese Academy of Sciences (supervisor: Prof.Limin Guo), SCALE @ [Nanyang Technological University](http://www.ntu.edu.sg) (supervisor: [Prof.Gao Cong](http://www.ntu.edu.sg/home/gaocong/)) and [Database Research Lab](https://www.comp.nus.edu.sg/~dbsystem/team.html) @ [National University of Singapore](www.nus.edu.sg) (supervisor: [Prof.Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/)).
 
 
+Office: 4360 @ CS Dept., 1201 W Dayton St, Madison, WI, United States, 53715
+
+Email: yunjia [AT] cs.wisc.edu
+
+
+Service
+=======
+
+* Teaching assistant of CS 564, 20 Spring
+
+  gradings
+
+* Teaching assistant of CS 400, 19 Fall 
+
 
 News
 ======

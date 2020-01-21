@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yunjia ZHANG"
+title                    : "Yunjia Zhang"
 title_separator          : "-"
-name                     : &name "Yunjia ZHANG"
+name                     : &name "Yunjia Zhang"
 description              : &description ""
 url                      : "https://yjcyber.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"

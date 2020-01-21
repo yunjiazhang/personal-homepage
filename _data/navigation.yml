@@ -19,5 +19,8 @@ main:
   - title: "Resume"
     url: http://pages.cs.wisc.edu/~yunjia/download/YunjiaZHANG.pdf
 
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/
+
+  - title: "Service"
+    url: /service/
