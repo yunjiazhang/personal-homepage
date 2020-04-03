@@ -32,12 +32,12 @@ Email: yunjia [AT] cs.wisc.edu
 ### Publications
 
 
-A Statistical Perspective on Discovering Functional Dependencies in Noisy Data [[pdf]](http://pages.cs.wisc.edu/~yunjia/publication/SIGMOD-2020-FDX.pdf) [[code]](https://github.com/rekords-uw/Profiler-Public.git)\
-**Yunjia Zhang**, Zhihan Guo, *Theodoros Rekatsinas*\
+A Statistical Perspective on Discovering Functional Dependencies in Noisy Data [[pdf]](http://pages.cs.wisc.edu/~yunjia/publication/SIGMOD-2020-FDX.pdf) [[code]](https://github.com/rekords-uw/Profiler-Public.git)<br>
+**Yunjia Zhang**, Zhihan Guo, *Theodoros Rekatsinas*<br>
 SIGMOD 2020
 
-Statistical Estimation of Diffusion Network Topologies [[pdf]](http://pages.cs.wisc.edu/~yunjia/publication/ICDE-2020-Paper456.pdf)\
-Keqi Han, Yuan Tian, ***Yunjia Zhang***, Ling Han, Hao Huang, Yunjun Gao\
+Statistical Estimation of Diffusion Network Topologies [[pdf]](http://pages.cs.wisc.edu/~yunjia/publication/ICDE-2020-Paper456.pdf)<br>
+Keqi Han, Yuan Tian, ***Yunjia Zhang***, Ling Han, Hao Huang, Yunjun Gao<br>
 ICDE 2020
 
 
