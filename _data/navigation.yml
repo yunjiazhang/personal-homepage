@@ -6,21 +6,20 @@ main:
 
   - title: "Education"
     url: /education/
-  
+
+  # - title: "Publications"
+  #   url: /publications/
+
+  # - title: "Projects & Course Designs"
+  #   url: /projects/
+
   - title: "Research"
     url: /research/
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Projects & Course Designs"
-    url: /projects/
-    
-  - title: "Resume"
-    url: http://pages.cs.wisc.edu/~yunjia/download/YunjiaZHANG.pdf
-
   # - title: "Contact"
   #   url: /contact/
+
+  - title: "Resume"
+    url: http://pages.cs.wisc.edu/~yunjia/download/YunjiaZHANG.pdf
 
   - title: "Service"
     url: /service/
