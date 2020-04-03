@@ -29,7 +29,7 @@ Email: yunjia [AT] cs.wisc.edu
 * Teaching assistant of CS 400, 19 Fall 
  -->
 
-### Publications
+## Publications
 
 
 A Statistical Perspective on Discovering Functional Dependencies in Noisy Data [[pdf]](http://pages.cs.wisc.edu/~yunjia/publication/SIGMOD-2020-FDX.pdf) [[code]](https://github.com/rekords-uw/Profiler-Public.git)<br>
@@ -41,7 +41,7 @@ Keqi Han, Yuan Tian, ***Yunjia Zhang***, Ling Han, Hao Huang, Yunjun Gao<br>
 ICDE 2020
 
 
-### News
+## News
 
 * Our paper on discovering functional dependency from a statistical perspective is to appear in [SIGMOD 2020](https://sigmod2020.org/). [[pdf]](http://pages.cs.wisc.edu/~yunjia/publication/SIGMOD-2020-FDX.pdf) [[code]](https://github.com/rekords-uw/Profiler-Public.git) \[03/22/2020\]
 
