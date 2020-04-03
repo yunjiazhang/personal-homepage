@@ -1,3 +1,4 @@
+
 ---
 permalink: /
 title: ""
@@ -29,12 +30,23 @@ Email: yunjia [AT] cs.wisc.edu
 * Teaching assistant of CS 400, 19 Fall 
  -->
 
-News
-======
+### Publications
 
-* Paper on previous work regarding diffusion networks accepted by [ICDE 2020](https://www.utdallas.edu/icde/). PDF available soon. \[12/13/2019\] 
 
-* Paper submitted to [SIGMOD 2020](https://sigmod2020.org/), which is currently under review. \[10/23/2019\]
+A Statistical Perspective on Discovering Functional Dependencies in Noisy Data [pdf](http://pages.cs.wisc.edu/~yunjia/publication/SIGMOD-2020-FDX.pdf) [code](https://github.com/rekords-uw/Profiler-Public.git)
+**Yunjia Zhang**, Zhihan Guo, *Theodoros Rekatsinas*
+SIGMOD 2020
+
+Statistical Estimation of Diffusion Network Topologies [pdf](http://pages.cs.wisc.edu/~yunjia/publication/ICDE-2020-Paper456.pdf)
+Keqi Han, Yuan Tian, ***Yunjia Zhang***, Ling Han, Hao Huang, Yunjun Gao
+ICDE 2020
+
+
+### News
+
+* Our paper on discovering functional dependency from a statistical perspective is to appear in [SIGMOD 2020](https://sigmod2020.org/). [pdf](http://pages.cs.wisc.edu/~yunjia/publication/SIGMOD-2020-FDX.pdf) [code](https://github.com/rekords-uw/Profiler-Public.git) \[03/22/2020\]
+
+* Paper on diffusion network topology resconstruction is accepted by [ICDE 2020](https://www.utdallas.edu/icde/). [pdf](http://pages.cs.wisc.edu/~yunjia/publication/ICDE-2020-Paper456.pdf). \[12/13/2019\] 
 
 * Joining [Database Group](https://database.cs.wisc.edu/people.html) of [Computer Science Dept.](https://www.cs.wisc.edu) at [University of Wisconsin-Madison](https://www.wisc.edu) for Ph.D study. GO BADGERS! \[05/13/2019\]
 
@@ -49,3 +61,5 @@ News
 * Finished my internship working with Xinhua Fan and Simin Liu under supervision of Prof.Limin Guo at Institute of Software, Chinese Academy of Sciences! \[04/14/2018\]
 
 * Joining Prof.Hao Huang's research lab on data mining from Apr 2017 at School of Computer Science, Wuhan University! \[04/02/2017\]
+
+
