@@ -45,7 +45,7 @@ ICDE 2020
 
 ## News
 
-* Joining [Gray System Lab (GSL) at Microsoft Azuer Data Research]((https://azuredata.microsoft.com/)) as research intern in summer 2021! \[01/27/2021\]
+* Joining [Gray System Lab (GSL) at Microsoft Azuer Data Research](https://azuredata.microsoft.com/) as research intern in summer 2021! \[01/27/2021\]
 
 * Our paper on discovering functional dependency from a statistical perspective is to appear in [SIGMOD 2020](https://sigmod2020.org/). \[03/22/2020\]
 
