@@ -21,9 +21,9 @@ Email: yunjia [AT] cs.wisc.edu
 
 ## Publications
 
-<!-- Linguistic Schema Mapping via Semi-Supervised Learning <br>
-**Yunjia Zhang**, Avrilia Floratou, Joyce Cahoon, Subru Krishnan,  <br>
-*Under submission* -->
+Linguistic Schema Mapping via Semi-Supervised Learning <br>
+**Yunjia Zhang**, Avrilia Floratou, Joyce Cahoon, Subru Krishnan, Andreas Mueller, Dalitso Banda <br>
+ICDE 2023 (To appear, work done with Microsoft GSL)
 
 Can Transfer Learing be Used to Build Query Optimizers [[talk]](https://www.youtube.com/watch?v=ZeY_RhDISLo&ab_channel=CIDRDB)<br>
 **Yunjia Zhang**, Yannis Chronis, Jignesh M. Patel, Theodoros Rekatsinas<br>
