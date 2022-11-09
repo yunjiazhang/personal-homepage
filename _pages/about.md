@@ -22,7 +22,7 @@ Email: yunjia [AT] cs.wisc.edu
 ## Publications
 
 Schema Matching using Pre-Trained Language Models <br>
-**Yunjia Zhang**, Avrilia Floratou, Joyce Cahoon, Subru Krishnan, Andreas Mueller, Dalitso Banda <br>
+**Yunjia Zhang**, Avrilia Floratou, Joyce Cahoon, Subru Krishnan, Andreas Mueller, Dalitso Banda, Fotis Psallidas, Jignesh M. Patel <br>
 ICDE 2023 _(To appear, work done with Microsoft GSL)_
 
 Can Transfer Learing be Used to Build Query Optimizers [[talk]](https://www.youtube.com/watch?v=ZeY_RhDISLo&ab_channel=CIDRDB)<br>
