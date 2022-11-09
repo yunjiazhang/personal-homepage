@@ -21,7 +21,7 @@ Email: yunjia [AT] cs.wisc.edu
 
 ## Publications
 
-Linguistic Schema Mapping via Semi-Supervised Learning <br>
+Schema Matching using Pre-Trained Language Models <br>
 **Yunjia Zhang**, Avrilia Floratou, Joyce Cahoon, Subru Krishnan, Andreas Mueller, Dalitso Banda <br>
 ICDE 2023 (To appear, work done with Microsoft GSL)
 
