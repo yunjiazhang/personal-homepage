@@ -18,15 +18,15 @@ Email: yunjia [AT] cs.wisc.edu
 
 ## Publications
 
-Simple Adaptive Query Processing vs. Learned Query Optimizers: Observations and Analysis <br>
+Simple Adaptive Query Processing vs. Learned Query Optimizers: Observations and Analysis [[pdf]](https://pages.cs.wisc.edu/~yunjia/download/p2750-zhang.pdf) [[code]](https://github.com/yunjiazhang/adaptiveness_vs_learning) <br>
 **Yunjia Zhang**, Yannis Chronis, Jignesh M. Patel, Theodoros Rekatsinas<br>
-VLDB 2023 (to appear)
+VLDB 2023 
 
 Schema Matching using Pre-Trained Language Models <br>
 **Yunjia Zhang**, Avrilia Floratou, Joyce Cahoon, Subru Krishnan, Andreas Mueller, Dalitso Banda, Fotis Psallidas, Jignesh M. Patel <br>
 ICDE 2023
 
-Can Transfer Learing be Used to Build Query Optimizers [[talk]](https://www.youtube.com/watch?v=ZeY_RhDISLo&ab_channel=CIDRDB)<br>
+Can Transfer Learning be Used to Build Query Optimizers [[talk]](https://www.youtube.com/watch?v=ZeY_RhDISLo&ab_channel=CIDRDB)<br>
 **Yunjia Zhang**, Yannis Chronis, Jignesh M. Patel, Theodoros Rekatsinas<br>
 CIDR 2022
 
