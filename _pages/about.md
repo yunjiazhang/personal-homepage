@@ -22,7 +22,7 @@ Simple Adaptive Query Processing vs. Learned Query Optimizers: Observations and 
 **Yunjia Zhang**, Yannis Chronis, Jignesh M. Patel, Theodoros Rekatsinas<br>
 VLDB 2023 
 
-Schema Matching using Pre-Trained Language Models <br>
+Schema Matching using Pre-Trained Language Models [[pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2022/12/273.pdf) <br>
 **Yunjia Zhang**, Avrilia Floratou, Joyce Cahoon, Subru Krishnan, Andreas Mueller, Dalitso Banda, Fotis Psallidas, Jignesh M. Patel <br>
 ICDE 2023
 
