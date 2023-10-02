@@ -18,6 +18,10 @@ Email: yunjia [AT] cs.wisc.edu
 
 ## Publications
 
+ReAcTable: Enhancing ReAct for Table Question Answering [[pdf]](https://pages.cs.wisc.edu/~yunjia/download/p830-zhang.pdf) <br>
+**Yunjia Zhang**, Jordan Henkel, Avrilia Floratou, Joyce Cahoon, Shaleen Deep, Jignesh M. Patel <br>
+arXiv preprint, under submission
+
 Simple Adaptive Query Processing vs. Learned Query Optimizers: Observations and Analysis [[pdf]](https://pages.cs.wisc.edu/~yunjia/download/p2750-zhang.pdf) [[code]](https://github.com/yunjiazhang/adaptiveness_vs_learning) <br>
 **Yunjia Zhang**, Yannis Chronis, Jignesh M. Patel, Theodoros Rekatsinas<br>
 VLDB 2023 
