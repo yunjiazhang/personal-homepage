@@ -18,7 +18,7 @@ Email: yunjia [AT] cs.wisc.edu
 
 ## Publications
 
-ReAcTable: Enhancing ReAct for Table Question Answering [[pdf]](https://pages.cs.wisc.edu/~yunjia/download/p830-zhang.pdf) <br>
+ReAcTable: Enhancing ReAct for Table Question Answering [[pdf]](http://arxiv.org/abs/2310.00815) <br>
 **Yunjia Zhang**, Jordan Henkel, Avrilia Floratou, Joyce Cahoon, Shaleen Deep, Jignesh M. Patel <br>
 arXiv preprint, under submission
 
