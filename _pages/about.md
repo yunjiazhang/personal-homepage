@@ -20,11 +20,11 @@ Email: yunjia [AT] cs.wisc.edu
 
 GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization [[pdf]](https://arxiv.org/abs/2311.03157) <br>
 Jiale Lao, Yibo Wang, Yufei Li, Jianping Wang, **Yunjia Zhang**, Zhiyuan Cheng, Wanghu Chen, Mingjie Tang, Jianguo Wang <br>
-arXiv preprint, under submission
+arXiv preprint
 
 ReAcTable: Enhancing ReAct for Table Question Answering [[pdf]](http://arxiv.org/abs/2310.00815) <br>
 **Yunjia Zhang**, Jordan Henkel, Avrilia Floratou, Joyce Cahoon, Shaleen Deep, Jignesh M. Patel <br>
-arXiv preprint, under submission
+arXiv preprint
 
 Simple Adaptive Query Processing vs. Learned Query Optimizers: Observations and Analysis [[pdf]](https://pages.cs.wisc.edu/~yunjia/download/p2750-zhang.pdf) [[code]](https://github.com/yunjiazhang/adaptiveness_vs_learning) <br>
 **Yunjia Zhang**, Yannis Chronis, Jignesh M. Patel, Theodoros Rekatsinas<br>
