@@ -63,10 +63,5 @@ ICDE 2020
 
 * Joining [Prof.Gao Cong](http://www.ntu.edu.sg/home/gaocong/)'s Singtel Cognitive and AI Lab for Enterprises at Nanyang Technological University in Singapore from Jul 2018! \[06/29/2018\]
 
-* Paper accepted by National Database Conference 2018 (NDBC 2018)! \[04/14/2018\]
-
-* Finished my internship working with Xinhua Fan and Simin Liu under supervision of Prof.Limin Guo at Institute of Software, Chinese Academy of Sciences! \[04/14/2018\]
-
-* Joining Prof.Hao Huang's research lab on data mining from Apr 2017 at School of Computer Science, Wuhan University! \[04/02/2017\]
 
 
