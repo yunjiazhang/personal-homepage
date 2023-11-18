@@ -16,7 +16,7 @@ Office: 4360 @ CS Dept., 1201 W Dayton St, Madison, WI, United States, 53715
 
 Email: yunjia [AT] cs.wisc.edu
 
-## Publications
+## Selected Publications
 
 GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization [[pdf]](https://arxiv.org/abs/2311.03157) <br>
 Jiale Lao, Yibo Wang, Yufei Li, Jianping Wang, **Yunjia Zhang**, Zhiyuan Cheng, Wanghu Chen, Mingjie Tang, Jianguo Wang <br>
