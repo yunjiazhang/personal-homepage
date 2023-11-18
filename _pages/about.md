@@ -24,7 +24,7 @@ arXiv preprint
 
 ReAcTable: Enhancing ReAct for Table Question Answering [[pdf]](http://arxiv.org/abs/2310.00815) <br>
 **Yunjia Zhang**, Jordan Henkel, Avrilia Floratou, Joyce Cahoon, Shaleen Deep, Jignesh M. Patel <br>
-arXiv preprint
+arXiv preprint (under revision of VLDB 2024)
 
 Simple Adaptive Query Processing vs. Learned Query Optimizers: Observations and Analysis [[pdf]](https://pages.cs.wisc.edu/~yunjia/download/p2750-zhang.pdf) [[code]](https://github.com/yunjiazhang/adaptiveness_vs_learning) <br>
 **Yunjia Zhang**, Yannis Chronis, Jignesh M. Patel, Theodoros Rekatsinas<br>
