@@ -21,7 +21,7 @@ Email: yunjia [AT] cs.wisc.edu
 
 GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization [[pdf]](https://arxiv.org/abs/2311.03157) <br>
 Jiale Lao, Yibo Wang, Yufei Li, Jianping Wang, **Yunjia Zhang**, Zhiyuan Cheng, Wanghu Chen, Mingjie Tang, Jianguo Wang <br>
-arXiv preprint
+arXiv preprint (under revision of VLDB 2024)
 
 ReAcTable: Enhancing ReAct for Table Question Answering [[pdf]](http://arxiv.org/abs/2310.00815) <br>
 **Yunjia Zhang**, Jordan Henkel, Avrilia Floratou, Joyce Cahoon, Shaleen Deep, Jignesh M. Patel <br>
