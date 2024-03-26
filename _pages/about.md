@@ -64,9 +64,9 @@ ICDE 2020
 
 * Attending [AAAI 2019](https://aaai.org/Conferences/AAAI-19/) (Jan.27 2019) at Hawaii, USA and giving an oral presentation! \[12/13/2018\]
 
-* Joining [Prof.Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/)'s  Database Research Lab at National University of Singapore from Nov 2018! \[10/01/2018\]
+* Joining [Prof. Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/)'s  Database Research Lab at National University of Singapore from Nov 2018! \[10/01/2018\]
 
-* Joining [Prof.Gao Cong](http://www.ntu.edu.sg/home/gaocong/)'s Singtel Cognitive and AI Lab for Enterprises at Nanyang Technological University in Singapore from Jul 2018! \[06/29/2018\]
+* Joining [Prof. Gao Cong](http://www.ntu.edu.sg/home/gaocong/)'s Singtel Cognitive and AI Lab for Enterprises at Nanyang Technological University in Singapore from Jul 2018! \[06/29/2018\]
 
 
 
