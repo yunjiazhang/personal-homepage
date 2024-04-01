@@ -13,8 +13,8 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  - title: "Projects & Course Designs"
-    url: /projects/
+  # - title: "Projects & Course Designs"
+  #   url: /projects/
     
   - title: "Resume"
     url: http://pages.cs.wisc.edu/~yunjia/download/YunjiaZHANG.pdf
