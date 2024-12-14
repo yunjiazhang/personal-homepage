@@ -23,17 +23,17 @@ ReAcTable: Enhancing ReAct for Table Question Answering [[pdf]](http://arxiv.org
 **Yunjia Zhang**, Jordan Henkel, Avrilia Floratou, Joyce Cahoon, Shaleen Deep, Jignesh M. Patel <br>
 VLDB 2024
 
+GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization [[pdf]](https://arxiv.org/abs/2311.03157) <br>
+Jiale Lao, Yibo Wang, Yufei Li, Jianping Wang, **Yunjia Zhang**, Zhiyuan Cheng, Wanghu Chen, Mingjie Tang, Jianguo Wang <br>
+VLDB 2024, Selected as <span style="color:#b30005"><b>SIGMOD Research Highlight</b></span>
+
 A Demonstration of GPTuner: A GPT-Based Manual-Reading Database Tuning System <br>
 Jiale Lao, Yibo Wang, Yufei Li, Jianping Wang, **Yunjia Zhang**, Zhiyuan Cheng, Wanghu Chen, Yuanchun Zhou, Mingjie Tang, Jianguo Wang <br>
 SIGMOD 2024 Demo
 
-GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization [[pdf]](https://arxiv.org/abs/2311.03157) <br>
-Jiale Lao, Yibo Wang, Yufei Li, Jianping Wang, **Yunjia Zhang**, Zhiyuan Cheng, Wanghu Chen, Mingjie Tang, Jianguo Wang <br>
-VLDB 2024
-
 Simple Adaptive Query Processing vs. Learned Query Optimizers: Observations and Analysis [[pdf]](https://pages.cs.wisc.edu/~yunjia/download/p2750-zhang.pdf) [[code]](https://github.com/yunjiazhang/adaptiveness_vs_learning) <br>
 **Yunjia Zhang**, Yannis Chronis, Jignesh M. Patel, Theodoros Rekatsinas<br>
-VLDB 2023 
+VLDB 2023, Invited by <span style="color:#b30005"><b>VLDB Journal Special Issue: <i>"Best of VLDB 2023"</i></b></span>
 
 Schema Matching using Pre-Trained Language Models [[pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2022/12/273.pdf) <br>
 **Yunjia Zhang**, Avrilia Floratou, Joyce Cahoon, Subru Krishnan, Andreas Mueller, Dalitso Banda, Fotis Psallidas, Jignesh M. Patel <br>
